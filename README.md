@@ -21,5 +21,5 @@ This project analyzes employee performance and attrition factors in the software
 I’m Manikanta, a data analyst with expertise in machine learning and real-time data processing. I hold a Master’s in Business Analytics from the University of North Texas and have hands-on experience in building predictive models and data pipelines.
 
 ### Contact
-[LinkedIn](https://www.linkedin.com) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/manikanta-mandadhi-2b4b7a2b5/) | [Email](mailto:manikantareddy1999@gmail.com)
 
